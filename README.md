@@ -19,6 +19,15 @@ The main goal of this project was to practice building a complete responsive web
 
 ---
 
+## 🌐 Live Demo
+
+<p align="center"> <a href="https://neamatallah.github.io/nova-web/"> <img src="https://img.shields.io/badge/✦%20View%20Nova%20Live-242321?style=for-the-badge" alt="View Nova Live"> </a> </p>
+
+Live Website:
+https://neamatallah.github.io/nova-web/
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Core Technologies
@@ -66,7 +75,7 @@ The layout is designed for:
 ## 📂 Project Structure
 
 ```text
-Nova/
+nova-web/
 │
 ├── index.html
 │
